@@ -1,0 +1,6 @@
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\bin\Debug\DoubleInteger.exe.config
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\bin\Debug\DoubleInteger.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\bin\Debug\DoubleInteger.pdb
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\obj\Debug\DoubleInteger.csprojResolveAssemblyReference.cache
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\obj\Debug\DoubleInteger.exe
+c:\users\wecancodeit\documents\visual studio 2015\Projects\DoubleInteger\DoubleInteger\obj\Debug\DoubleInteger.pdb
